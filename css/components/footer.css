@@ -1,12 +1,12 @@
 .footer {
   text-align: center;
   padding: 60px;
-  background-color: #2c2b2b;
+  background-color: #08090A;
 }
 
 .footer a {
   font-size: 30px;
-  color: #1EDD88;
+  color: #00B7C2;
 }
 
 .footer p {
@@ -14,7 +14,7 @@
 }
 
 .footer .fas {
- color: #BF0F12;
+ color: #FE5F55;
 }
 
 .footer a:hover {
@@ -22,5 +22,5 @@
 }
 
 .footer .fas:hover {
-  color: #1EDD88;
+  color: #00B7C2;
 }
